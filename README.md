@@ -1,2 +1,3 @@
-# primera_entrega
-jueves 18 de octubre 2018 multimedia 2
+# portafolio
+Jueves 11 de octubre
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
