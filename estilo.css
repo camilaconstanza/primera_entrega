@@ -38,3 +38,15 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
+
+#landing {
+background-image: url(img/fondo_01.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#titulo{
+    font-family: 'Oswald', sans-serif;
+}
+
+
